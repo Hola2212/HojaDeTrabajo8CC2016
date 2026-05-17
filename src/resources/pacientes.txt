@@ -1,4 +1,50 @@
-Juan Perez, fractura de pierna, C
-Maria Ramirez, apendicitis, A
-Lorenzo Toledo, chikunguya, E
-Carmen Sarmientos, dolores de parto, B
+Carlos Méndez, dolor de pecho, A
+Ana López, fractura de brazo, C
+Luis Ramírez, apendicitis, A
+María González, fiebre alta, D
+Jorge Castillo, accidente automovilístico, A
+Lucía Herrera, dolor abdominal, B
+Pedro Morales, migraña severa, C
+Sofía Pérez, dificultad respiratoria, A
+Diego Fernández, cortadura profunda, B
+Valeria Torres, infección estomacal, D
+Miguel Reyes, quemaduras leves, C
+Camila Flores, dolores de parto, B
+Andrés Ruiz, pérdida de conocimiento, A
+Paula Castro, gripe fuerte, E
+Ricardo Navarro, fractura de pierna, B
+Daniela Ortiz, presión alta, C
+Fernando Silva, hemorragia interna, A
+Gabriela Mendoza, vómitos constantes, D
+José Aguilar, ataque alérgico, A
+Natalia Vega, deshidratación, C
+Alejandro Cruz, dolor lumbar, E
+Patricia Salazar, infección urinaria, D
+Roberto Molina, convulsiones, A
+Laura Jiménez, mareos constantes, C
+Hugo Ríos, dolor muscular, E
+Andrea Pineda, dificultad para caminar, B
+Esteban Campos, fiebre y tos, D
+Verónica León, herida por caída, C
+Mauricio Delgado, infarto, A
+Karla Fuentes, dolor de garganta, E
+Óscar Chávez, sangrado nasal severo, B
+Mónica Cabrera, neumonía, A
+Iván Estrada, fractura de tobillo, C
+Paola Cifuentes, ansiedad severa, D
+Cristian Barrios, quemaduras graves, A
+Diana Rosales, dolor de oído, E
+Raúl Mejía, presión baja, D
+Silvia Contreras, intoxicación alimentaria, B
+Eduardo Marroquín, lesión deportiva, C
+Claudia Alvarado, paro respiratorio, A
+Tomás Valdez, infección en la piel, D
+Rosa Figueroa, sangrado interno, A
+Kevin Arana, dolor de rodilla, E
+Isabel Cano, dificultad para respirar, A
+Marco Díaz, herida de bala, A
+Elena Soto, gastritis, D
+Julio Paredes, luxación de hombro, C
+Beatriz Monzón, parto de emergencia, A
+Samuel Guerra, dolor de cabeza leve, E
+Gloria Aparicio, ataque cardíaco, A
